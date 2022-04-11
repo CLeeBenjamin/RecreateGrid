@@ -12,7 +12,7 @@
 <img src="https://ishadeed.com/assets/grid-flex/grid-vs-flexbox.png">
 
 
-<h1 style="font-size:4vw"> <u>What are those?: Grid Tracks and Grid Lines</u> 
+<h1 style="font-size:2vw"> <u>What are those?: Grid Tracks and Grid Lines</u> 
 </h1>
 <img src="https://miro.medium.com/max/1400/1*sEE3m2zdXT1tIMYktBmL4g.png">
 
@@ -21,7 +21,7 @@
 
 
 
-<h1 style="font-size:4vw"> <u>Quickly Cover</u> 
+<h1 style="font-size:1vw"> <u>Quickly Cover</u> 
 
 * `display: grid`
 * `grid-template-columns`
@@ -35,14 +35,14 @@ Grid Item Properties
 * `grid-row`
 
 
-<h1 style="font-size:4vw"> <u>Recreate (20 mins)</u> 
+<h1 style="font-size:2vw"> <u>Recreate (20 mins)</u> 
 </h1>
 
 
 
-<h1 style="font-size:4vw"> <u>Essential Questions </u> </h1>
+<h1 style="font-size:2vw"> <u>Essential Questions </u> </h1>
 
-<ol style="font-size:3.5vw"> 
+<ol style="font-size:1.5vw"> 
     <li> How do CSS Flexbox and Grid differ? </li>
     <li> How can we use fractional units to create fluid layouts? </li>
     <li> How do you span grid items across multiple rows/columns? </li>
